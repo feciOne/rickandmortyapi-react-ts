@@ -1,0 +1,9 @@
+.container .row a {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+}
+
+.container .row a:hover {
+    color: blue;
+}
